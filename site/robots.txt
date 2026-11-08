@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ansil73.github.io/Kasavu_your-digital-invitation-card-partner/sitemap.xml
